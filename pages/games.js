@@ -1,27 +1,28 @@
 export const games = [
     {
-        gamename: "Retro Bowl",
+        gamename: "Retro Bowl (fixed)",
         gameIMG: "images/rb.jpg",
-        link: "3kh0.github.io/retro-bowl/",
+        link: "forkandspoonit.github.io/retro--bowl/",
         viewed_on: 0,
         genre: "Sports"
     },
     {
-        gamename: "Clumsy Bird",
+        gamename: "Clumsy Bird (fixed)",
         gameIMG : "images/clum.jpg",
-        link: "ellisonleao.github.io/clumsy-bird/",
-        viewed_on: 0,                genre: "Endless"
+        link: "forkandspoonit.github.io/clumsy-bird/",
+        viewed_on: 0,               
+        genre: "Endless"
     },
     {
-        gamename: "Duck Hunt",
+        gamename: "Duck Hunt (fixed)",
         gameIMG : "images/dh.jpg",
-        link: "duckhuntjs.com/",
+        link: "forkandspoonit.github.io/DuckHunt/",
         viewed_on: 0,                genre: "None"
     },
     {
-        gamename: "Chrome Dinosaur Game",
+        gamename: "Chrome Dinosaur Game (FIXED) ",
         gameIMG : "images/dino.jpg",
-        link: "bandruf.github.io/dinosaur-game/" ,
+        link: "forkandspoonit.github.io/chrome-dino-game-clone/" ,
         viewed_on: 0  ,                genre: "Endless"
     },
     {
