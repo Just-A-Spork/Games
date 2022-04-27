@@ -64,7 +64,7 @@ export const games = [
     {
         gamename: "RooftopSnipers",
         gameIMG : "images/rooftop-snipers.jpg",
-        link: "bandruf.github.io/rooftopsnipers"   ,
+        link: "sobloxsy.github.io/rooftop-snipers/"   ,
         viewed_on: 0,                genre: "Action"
     },
     {
